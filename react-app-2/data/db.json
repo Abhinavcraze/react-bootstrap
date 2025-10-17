@@ -1,0 +1,40 @@
+{
+  "posts" : [
+    {
+      "id" : 101 ,
+      "title" : "My First Post",
+      "content" : "Hello,This is my first post!",
+      "created_on" :"2002-08-03"
+    },
+    {
+      "id" : 102 ,
+      "title" : "Rich Dad, Poor Dad",
+      "content" : "Money is just an tragedy!",
+      "created_on" :"2002-09-09"
+    },
+    {
+      "id" : 103 ,
+      "title" : "Atomic Habits!",
+      "content" : "Small update on ourself can change our life",
+      "created_on" :"2003-07-26"
+    },
+    {
+      "id" : 104 ,
+      "title" : "Education",
+      "content" : "how to earn money in safe manner",
+      "created_on" :"2005-08-09"
+    },
+    {
+      "id" : 105 ,
+      "title" : "Scam 1992",
+      "content" : "Stock has high risk but also high profit",
+      "created_on" :"2003-03-08"
+    },
+    {
+      "id" : 106 ,
+      "title" : "Success",
+      "content" : "Don't blame others,change yourself",
+      "created_on" :"2020-08-19"
+    }
+  ]
+}
